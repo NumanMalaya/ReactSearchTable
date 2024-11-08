@@ -1,5 +1,5 @@
 import "./App.css";
-import ProductTable from "./components/ProductTable";
+import ProductTable from "./ProductTable";
 
 export default function App() {
   return (
