@@ -13,7 +13,7 @@ body{
 .productTable th, .productTable td{
     text-align: center;
     border: 1px solid red;
-    padding: 10px 50px;
+    width: 150px;
     background: transparent;
     color: white;
 }
