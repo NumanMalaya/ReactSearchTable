@@ -8,9 +8,7 @@ body{
     width: 100%;
 }
 .header{
-    margin: 10px 0px 20px;
-}
-.header span{
+    margin: 10px 0px;
     font-size: 30px;
 }
 .footer{
