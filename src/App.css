@@ -46,7 +46,7 @@ body{
 @media screen and (max-width: 480px) {
     .header{
         margin: 20px 0px 50px;
-        font-size: 20px;
+        font-size: 35px;
     }
     .footer{
         bottom: 20px;
