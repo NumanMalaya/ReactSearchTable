@@ -9,7 +9,9 @@ body{
 }
 .header{
     margin: 10px 0px 20px;
-    font-size: 300px;
+}
+.header span{
+    font-size: 30px;
 }
 .footer{
     position: absolute;
